@@ -1,3 +1,5 @@
 //comitadinha inicial
 //adicionei mensagem de boas vindas
+//criei rotinas de entrada
+'
 
